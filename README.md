@@ -2,7 +2,7 @@ Teste criado pela empresa Matrix Cargo.
 
 O código foi desenvolvido utilizando a linguagem Typescript (backend e frontend) e arquitetura Flux/Redux para gerenciamento de estado centralizado. Esse tipo de arquitetura além de manter um código enxuto e escalável, garante um alto grau de desacoplamento, permitindo por exemplo que varios desenvolvedores trabalhem no códico simultamente gerando baixo número de conflitos durante o merge e um crescimento sustentável da solução como um todo.
 
-
+Obs: Necessário Node 10 ou superior com NPN ou YARN instalados.
 
 | PRÉ-REQUISITOS
 |---------------
